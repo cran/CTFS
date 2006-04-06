@@ -1,0 +1,17 @@
+\documentclass[a4paper]{article}
+
+%\VignetteIndexEntry{File Organization: Data, Functions and Results}
+%\VignettePackage{CTFS}
+
+\title{4.  File Organization: Data, Functions and Results}
+\author{Ellen Connell, Marie Massa and  Pamela Hall}
+
+\begin{document}
+\maketitle
+
+@
+This is an empty file in Sweave format to hold the place for the pdf 
+version.
+CTFS.Chpt4.FileStructure.pdf
+
+\end{document}

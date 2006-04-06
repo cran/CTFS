@@ -1,0 +1,17 @@
+\documentclass[a4paper]{article}
+
+%\VignetteIndexEntry{Reading and Writing Datafiles}
+%\VignettePackage{CTFS}
+
+\title{6.  Reading and Writing Datafiles}
+\author{Ellen Connell, Marie Massa and  Pamela Hall}
+
+\begin{document}
+\maketitle
+
+@
+This is an empty file in Sweave format to hold the place for the pdf 
+version.
+CTFS.Chpt6.ReadWrite.pdf
+
+\end{document}
